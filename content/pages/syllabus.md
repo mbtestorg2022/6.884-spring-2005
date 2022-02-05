@@ -24,12 +24,57 @@ Grades
 
 Grades will be based on the labs, one quiz, project milestones, and the final completed project.
 
-| activities | percentages |
-| --- | --- |
-| Labs | 30% |
-| Quiz | 20% |
-| Project Milestones | 25% |
-| Final Completed Project | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+activities
+{{< thclose >}}
+{{< thopen >}}
+percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Labs
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project Milestones
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Completed Project
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
