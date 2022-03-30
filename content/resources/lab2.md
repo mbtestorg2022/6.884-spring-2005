@@ -7,6 +7,7 @@ description: 'This file contains lab assignment which has primary objective to i
   layout.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-884-complex-digital-systems-spring-2005/0edb36d0521b1fe9982ea26ec11fb395_lab2.pdf
 file_type: application/pdf
+parent_uid: 60d7ef1f-e2ac-7a31-acca-64948b8b2321
 resourcetype: Document
 title: lab2.pdf
 uid: 0edb36d0-521b-1fe9-982e-a26ec11fb395
